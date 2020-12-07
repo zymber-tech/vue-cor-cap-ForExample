@@ -118,7 +118,7 @@ $ npx cap init
 
 #### 各App平台輸出專案位置
 1) iOS：./ios
-2) Android：android
+2) Android：./android
 
 #### Vue輸出app專案
 - 若無app專案，請先執行：  
