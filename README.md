@@ -115,6 +115,7 @@ $ npm install --save @capacitor/core @capacitor/cli
 ```bash
 $ npx cap init
 ```
+![](./assets/npx_cap_init.png)
 
 #### Capacitor輸出設定檔
 - capacitor.config.json
