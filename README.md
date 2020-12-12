@@ -7,6 +7,9 @@
 $ npm install -g cordova
 
 # !!!一定要先創建Cordova的專案，才可以創建Vue專案
+# 若不聽話的話，會發現先創Vue專案，再執行Cordova指令時
+# 系統會告知此路徑下已有同名的資料夾，且此資料夾不為空
+
 # 創建Cordova 專案
 $ cordova create [專案名]
 
